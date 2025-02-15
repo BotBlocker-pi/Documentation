@@ -1,0 +1,44 @@
+{
+  "permalink": "/blog/welcome",
+  "source": "@site/blog/2021-08-26-welcome/index.md",
+  "title": "Welcome",
+  "description": "Docusaurus blogging features are powered by the blog plugin.",
+  "date": "2021-08-26T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Facebook",
+      "permalink": "/blog/tags/facebook",
+      "description": "Facebook tag description"
+    },
+    {
+      "inline": false,
+      "label": "Hello",
+      "permalink": "/blog/tags/hello",
+      "description": "Hello tag description"
+    },
+    {
+      "inline": false,
+      "label": "Docusaurus",
+      "permalink": "/blog/tags/docusaurus",
+      "description": "Docusaurus tag description"
+    }
+  ],
+  "readingTime": 0.465,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Welcome",
+    "tags": [
+      "facebook",
+      "hello",
+      "docusaurus"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "The Team",
+    "permalink": "/blog/team_presentation"
+  }
+}

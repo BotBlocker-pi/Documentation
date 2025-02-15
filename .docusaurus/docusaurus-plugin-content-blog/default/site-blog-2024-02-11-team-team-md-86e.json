@@ -1,0 +1,28 @@
+{
+  "permalink": "/blog/team_presentation",
+  "source": "@site/blog/2024-02-11-team/team.md",
+  "title": "The Team",
+  "description": "---",
+  "date": "2024-02-11T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.445,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Hugo",
+      "title": "Developer",
+      "url": "https://github.com/hugo",
+      "imageURL": "https://example.com/hugo-avatar.jpg",
+      "key": "hugo",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "team_presentation",
+    "title": "The Team",
+    "authors": [
+      "hugo"
+    ]
+  },
+  "unlisted": false
+}

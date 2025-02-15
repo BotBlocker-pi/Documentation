@@ -1,0 +1,53 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "milestones/MS1 - Inception Phase/projectDescription",
+          "docs": [
+            {
+              "id": "milestones/MS1 - Inception Phase/projectDescription",
+              "path": "/docs/milestones/MS1 - Inception Phase/ProjectDescription",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "milestones/MS2 - Elaboration Phase/projectDescription",
+              "path": "/docs/milestones/MS2 - Elaboration Phase/ProjectDescription",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "milestones/MS3 - Construction/projectDescription",
+              "path": "/docs/milestones/MS3 - Construction/ProjectDescription",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "milestones/MS4 - Transition/projectDescription",
+              "path": "/docs/milestones/MS4 - Transition/ProjectDescription",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/milestones",
+              "path": "/docs/category/milestones",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/category/milestones",
+                "label": "Milestones"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
