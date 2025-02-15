@@ -11,7 +11,7 @@ function Home() {
   return (
     <Layout title="Home" description="BotSentinel Home Page">
       <div className="container">
-        <h1>Welcome to BotSentinel</h1>
+        <h1>Welcome to BotSentinel!!!!!!!!!!</h1>
         <p>This is a custom homepage built with React and Docusaurus.</p>
         
         {/* Botão interativo */}
