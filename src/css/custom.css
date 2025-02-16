@@ -32,3 +32,13 @@
 .yearGroupHeading_rMGB {
   display: none;
 }
+
+/* Cor da onda no modo claro */
+.wave-path {
+  fill: #ffffff; /* Branca no modo claro */
+}
+
+/* Cor da onda no modo escuro */
+[data-theme='dark'] .wave-path {
+  fill: #000000; /* Preta no modo escuro */
+}

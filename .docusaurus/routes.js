@@ -58,16 +58,6 @@ export default [
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
-    exact: true
-  },
-  {
-    path: '/my-markdown-page',
-    component: ComponentCreator('/my-markdown-page', '438'),
-    exact: true
-  },
-  {
     path: '/docs',
     component: ComponentCreator('/docs', 'ef9'),
     routes: [
