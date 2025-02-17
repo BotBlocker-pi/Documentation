@@ -29,7 +29,7 @@ const OurTeam = () => {
                 fontWeight: 'bold',
                 color: '#556c98', // Cor fixa para "Members"
             }}>
-                Members
+                Developers
             </h2>
 
             {/* Primeira linha com 5 cards */}
@@ -192,7 +192,7 @@ const OurTeam = () => {
                         />
                     </div>
                     <h3 style={{ marginTop: '2rem', marginBottom: '0.5rem', color: 'black' }}>Vicente Barros</h3>
-                    <p style={{ marginBottom: '1rem', color: 'black' }}>vicente.barros@example.com</p>
+                    <p style={{ marginBottom: '1rem', color: 'black' }}>vmabarros@ua.pt</p>
                     <a
                         href="https://github.com/v1centebarros"
                         target="_blank"
