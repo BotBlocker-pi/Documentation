@@ -6,11 +6,16 @@ const Features = () => {
     return (
         <div style={{
             display: 'flex',
-            justifyContent: 'space-around',
+            flexWrap: 'wrap', // Permite que os cards quebrem para a próxima linha
+            justifyContent: 'center', // Centraliza os cards na tela
             alignItems: 'center',
-            padding: '2rem 0',
+            padding: '2rem 1rem', // Adiciona padding lateral de 1rem
             borderRadius: '1rem',
-            margin: '2rem 0'
+            margin: '2rem 0',
+            gap: '1rem', // Adiciona espaçamento entre os cards
+            maxWidth: '1200px', // Limita a largura máxima do contêiner
+            marginLeft: 'auto', // Centraliza o contêiner na tela
+            marginRight: 'auto', // Centraliza o contêiner na tela
         }}>
             {/* Card 1: Trust the Internet Again */}
             <div style={{
@@ -19,7 +24,9 @@ const Features = () => {
                 borderRadius: '0.75rem',
                 boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)',
                 textAlign: 'center',
-                width: '30%'
+                width: '30%',
+                minWidth: '250px', // Define uma largura mínima para os cards
+                flex: '1 1 30%', // Permite que os cards cresçam e encolham
             }}>
                 <FontAwesomeIcon icon={faShieldAlt} style={{ fontSize: '2rem', color: '#556c98', marginBottom: '1rem' }} />
                 <h3 style={{ fontSize: '1.25rem', fontWeight: 'bold', color: '#2d3748', marginBottom: '1rem' }}>
@@ -37,7 +44,9 @@ const Features = () => {
                 borderRadius: '0.75rem',
                 boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)',
                 textAlign: 'center',
-                width: '30%'
+                width: '30%',
+                minWidth: '250px',
+                flex: '1 1 30%',
             }}>
                 <FontAwesomeIcon icon={faUsers} style={{ fontSize: '2rem', color: '#556c98', marginBottom: '1rem' }} />
                 <h3 style={{ fontSize: '1.25rem', fontWeight: 'bold', color: '#2d3748', marginBottom: '1rem' }}>
@@ -55,7 +64,9 @@ const Features = () => {
                 borderRadius: '0.75rem',
                 boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)',
                 textAlign: 'center',
-                width: '30%'
+                width: '30%',
+                minWidth: '250px',
+                flex: '1 1 30%',
             }}>
                 <FontAwesomeIcon icon={faRocket} style={{ fontSize: '2rem', color: '#556c98', marginBottom: '1rem' }} />
                 <h3 style={{ fontSize: '1.25rem', fontWeight: 'bold', color: '#2d3748', marginBottom: '1rem' }}>

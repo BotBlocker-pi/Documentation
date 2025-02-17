@@ -33,7 +33,12 @@ const OurTeam = () => {
             </h2>
 
             {/* Primeira linha com 5 cards */}
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(5, 1fr)', gap: '1rem', marginBottom: '2rem' }}>
+            <div style={{
+                display: 'grid',
+                gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', // Responsivo
+                gap: '1rem',
+                marginBottom: '2rem',
+            }}>
                 {[
                     { name: 'Ana Rita Silva', photo: AnaRitaPhoto, github: 'https://github.com/Rita-Silva04', email: 'aritafs@ua.pt' },
                     { name: 'Ângela Ribeiro', photo: AngelaPhoto, github: 'https://github.com/angelammaribeiro', email: 'angelammaribeiro@ua.pt' },
@@ -101,14 +106,19 @@ const OurTeam = () => {
             </h2>
 
             {/* Segunda linha com 2 cards centralizados */}
-            <div style={{ display: 'flex', justifyContent: 'center', gap: '1rem' }}>
+            <div style={{
+                display: 'grid',
+                gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', // Responsivo
+                gap: '1rem',
+                maxWidth: '1200px', // Limita a largura máxima para não ultrapassar os Members
+                margin: '0 auto', // Centraliza o contêiner na tela
+            }}>
                 {/* Card 6 - Joao Rafael Almeida */}
                 <div style={{
                     border: '1px solid #ddd',
                     borderRadius: '0.5rem',
                     padding: '1.5rem',
                     textAlign: 'center',
-                    width: '20%',
                     height: '350px',
                     backgroundColor: 'white', // Fundo branco explicitamente
                 }}>
@@ -156,7 +166,6 @@ const OurTeam = () => {
                     borderRadius: '0.5rem',
                     padding: '1.5rem',
                     textAlign: 'center',
-                    width: '20%',
                     height: '350px',
                     backgroundColor: 'white', // Fundo branco explicitamente
                 }}>
