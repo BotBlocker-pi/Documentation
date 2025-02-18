@@ -115,10 +115,10 @@ const Intro = () => {
         <Container>
             <TextContainer>
                 <Title>
-                    See Through the Illusion: Detect AI Profiles in Seconds
+                    Your Voice Matters. Don’t Let AI Drown It Out
                 </Title>
                 <Subtitle>
-                    Your Voice Matters. Don’t Let AI Drown It Out.
+                    Take Control of Your Online Space.
                 </Subtitle>
 
                 {/* Imagem em telas pequenas */}
@@ -131,11 +131,9 @@ const Intro = () => {
                 </ImageContainer>
 
                 <Paragraph>
-                    In a world where AI-driven bots are increasingly shaping online interactions, it’s hard to know
-                    who’s real and who’s not. Our platform empowers you to uncover the truth. By combining
-                    community-driven insights with advanced algorithms, we help you identify AI-managed accounts and
-                    ensure your online interactions are genuine. Join us in creating a more transparent and trustworthy
-                    digital space—because the internet should be about real people, not bots.
+                    In a world where AI-driven bots are increasingly shaping online interactions, it’s hard to know who’s real and who’s not. Our platform empowers you to uncover the truth. By combining community-driven insights with advanced algorithms, we help you identify AI-managed accounts and ensure your online interactions are genuine.
+                    To give users greater control, our system allows for profile blocking, making it easier to filter out suspicious accounts. Additionally, our website provides in-depth profile analysis, allowing users to search for accounts and view credibility evaluations, voting history, and relevant discussions.
+                    Join us in creating a more transparent and trustworthy digital space—because the internet should be about real people, not bots.
                 </Paragraph>
             </TextContainer>
 

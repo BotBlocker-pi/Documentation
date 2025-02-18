@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faShieldAlt, faUsers, faRocket } from '@fortawesome/free-solid-svg-icons';
+import { faShieldAlt, faUsers, faList } from '@fortawesome/free-solid-svg-icons';
 
 const Features = () => {
     return (
@@ -17,7 +17,7 @@ const Features = () => {
             marginLeft: 'auto', // Centraliza o contêiner na tela
             marginRight: 'auto', // Centraliza o contêiner na tela
         }}>
-            {/* Card 1: Trust the Internet Again */}
+            {/* Card 1*/}
             <div style={{
                 background: '#ffffff',
                 padding: '1.5rem',
@@ -37,7 +37,7 @@ const Features = () => {
                 </p>
             </div>
 
-            {/* Card 2: Community-Based Ratings */}
+            {/* Card 2*/}
             <div style={{
                 background: '#ffffff',
                 padding: '1.5rem',
@@ -57,7 +57,7 @@ const Features = () => {
                 </p>
             </div>
 
-            {/* Card 3: Fast, Easy to Use & Free */}
+            {/* Card 3*/}
             <div style={{
                 background: '#ffffff',
                 padding: '1.5rem',
@@ -68,13 +68,12 @@ const Features = () => {
                 minWidth: '250px',
                 flex: '1 1 30%',
             }}>
-                <FontAwesomeIcon icon={faRocket} style={{ fontSize: '2rem', color: '#556c98', marginBottom: '1rem' }} />
+                <FontAwesomeIcon icon={faList} style={{ fontSize: '2rem', color: '#556c98', marginBottom: '1rem' }} />
                 <h3 style={{ fontSize: '1.25rem', fontWeight: 'bold', color: '#2d3748', marginBottom: '1rem' }}>
-                    Fast, Easy to Use & Free
+                    Flexible Blacklist Control
                 </h3>
                 <p style={{ color: '#4a5568', lineHeight: '1.5' }}>
-                    Just enter a username and get instant results. Our platform is designed to be simple, fast, and accessible to everyone.
-                </p>
+                    Users can block profiles manually or rely on a shared blacklist, with the option to display or hide flagged accounts.                </p>
             </div>
         </div>
     );
