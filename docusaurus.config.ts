@@ -61,9 +61,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'BotSentinel',
+      title: 'BotBlocker',
       logo: {
-        alt: 'BotSentinel Logo',
+        alt: 'BotBlocker Logo',
         src: 'img/logo.svg',
       },
       items: [
