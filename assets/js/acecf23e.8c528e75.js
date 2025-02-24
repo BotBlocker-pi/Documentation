@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbot_sentinel_documentation=self.webpackChunkbot_sentinel_documentation||[]).push([[903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/Documentation/blog","blogTitle":"Blog","authorsListPath":"/Documentation/blog/authors"}')}}]);
