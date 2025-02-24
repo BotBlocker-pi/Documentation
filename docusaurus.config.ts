@@ -5,20 +5,21 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'BotSentinel',
+  title: 'BotBlocker',
   tagline: 'Detecting Bots, Preserving Truth',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/botblocker/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'BotBlocker-pi', // Usually your GitHub org/user name.
+  projectName: 'botblocker', // Usually your repo name.
+
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -60,9 +61,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'BotSentinel',
+      title: 'BotBlocker',
       logo: {
-        alt: 'BotSentinel Logo',
+        alt: 'BotBlocker Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -74,7 +75,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Sprints', position: 'left'},
         {
-          href: 'https://github.com/BotSentinel-pi',
+          href: 'https://github.com/BotBlocker-pi',
           label: 'GitHub',
           position: 'right',
         },
@@ -123,7 +124,7 @@ const config: Config = {
       //     ],
       //   },
       // ],
-      copyright: `Copyright © ${new Date().getFullYear()} BotSentinel, Projeto informática`,
+      copyright: `Copyright © ${new Date().getFullYear()} BotBlocker, Projeto informática`,
     },
     prism: {
       theme: prismThemes.github,
