@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'BotBlocker',
+  title: 'BotBlocker2222222222222222222222222222222222222222222',
   tagline: 'Detecting Bots, Preserving Truth',
   favicon: 'img/favicon.ico',
 
@@ -61,9 +61,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'BotBlocker',
+      title: 'BotBlocker2222222222222222222222222222222222222222222',
       logo: {
-        alt: 'BotBlocker Logo',
+        alt: 'BotBlocker2222222222222222222222222222222222222222222 Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -75,7 +75,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Sprints', position: 'left'},
         {
-          href: 'https://github.com/BotBlocker-pi',
+          href: 'https://github.com/BotBlocker2222222222222222222222222222222222222222222-pi',
           label: 'GitHub',
           position: 'right',
         },
@@ -124,7 +124,7 @@ const config: Config = {
       //     ],
       //   },
       // ],
-      copyright: `Copyright © ${new Date().getFullYear()} BotBlocker, Projeto informática`,
+      copyright: `Copyright © ${new Date().getFullYear()} BotBlocker2222222222222222222222222222222222222222222, Projeto informática`,
     },
     prism: {
       theme: prismThemes.github,
