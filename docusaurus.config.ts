@@ -10,15 +10,16 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/Documentation/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'BotBlocker-pi', // Usually your GitHub org/user name.
+  projectName: 'Documentation', // Usually your repo name.
+  deploymentBranch:"gh-pages",
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -60,9 +61,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'BotSentinel',
+      title: 'BotBlocker',
       logo: {
-        alt: 'BotSentinel Logo',
+        alt: 'BotBlocker Logo',
         src: 'img/logo.svg',
       },
       items: [

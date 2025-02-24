@@ -4,13 +4,14 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "BotSentinel",
+  "title": "BotBlocker",
   "tagline": "Detecting Bots, Preserving Truth",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "url": "https://github.com",
+  "baseUrl": "/Documentation/",
+  "organizationName": "BotBlocker-pi",
+  "projectName": "Documentation",
+  "deploymentBranch": "gh-pages",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -43,9 +44,9 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "BotSentinel",
+      "title": "BotBlocker",
       "logo": {
-        "alt": "BotSentinel Logo",
+        "alt": "BotBlocker Logo",
         "src": "img/logo.svg"
       },
       "items": [
@@ -61,7 +62,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/BotSentinel-pi",
+          "href": "https://github.com/BotBlocker-pi",
           "label": "GitHub",
           "position": "right"
         }
@@ -70,7 +71,7 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "Copyright © 2025 BotSentinel, Projeto informática",
+      "copyright": "Copyright © 2025 BotBlocker, Projeto informática",
       "links": []
     },
     "prism": {
