@@ -1,6 +1,6 @@
 ---
-slug: Deriverables
-title: Deriverables
+slug: Deliverables
+title: Deliverables
 sidebar_position: 2
 ---
 
