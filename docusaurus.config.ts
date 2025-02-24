@@ -10,7 +10,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://github.com/BotBlocker-pi/Documentation',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/botblocker/',
@@ -18,7 +18,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'BotBlocker-pi', // Usually your GitHub org/user name.
-  projectName: 'botblocker', // Usually your repo name.
+  projectName: 'Documentation', // Usually your repo name.
   deploymentBranch:"gh-pages",
 
   onBrokenLinks: 'throw',
