@@ -40,11 +40,11 @@ const OurTeam = () => {
                 marginBottom: '2rem',
             }}>
                 {[
-                    { name: 'Ana Rita Silva', photo: AnaRitaPhoto, github: 'https://github.com/Rita-Silva04', email: 'aritafs@ua.pt' },
-                    { name: 'Ângela Ribeiro', photo: AngelaPhoto, github: 'https://github.com/angelammaribeiro', email: 'angelammaribeiro@ua.pt' },
-                    { name: 'João Carlos Leite', photo: JoaoCarlosPhoto, github: 'https://github.com/JotaCLS', email: 'joao.carlos.santos@ua.pt' },
-                    { name: 'João Viegas', photo: JoaoViegasPhoto, github: 'https://github.com/joaoviegas11', email: 'joaoviegas11@ua.pt' },
-                    { name: 'Hugo Castro', photo: HugoPhoto, github: 'https://github.com/hujuc', email: 'hugocastro@ua.pt' },
+                    { name: 'Ana Rita Silva', photo: AnaRitaPhoto, github: 'https://github.com/Rita-Silva04', email: 'aritafs@ua.pt', role: 'Frontend Manager' },
+                    { name: 'Ângela Ribeiro', photo: AngelaPhoto, github: 'https://github.com/angelammaribeiro', email: 'angelammaribeiro@ua.pt', role: 'Project Manager' },
+                    { name: 'João Carlos Leite', photo: JoaoCarlosPhoto, github: 'https://github.com/JotaCLS', email: 'joao.carlos.santos@ua.pt', role: 'Architect' },
+                    { name: 'João Viegas', photo: JoaoViegasPhoto, github: 'https://github.com/joaoviegas11', email: 'joaoviegas11@ua.pt', role: 'Backend Manager' },
+                    { name: 'Hugo Castro', photo: HugoPhoto, github: 'https://github.com/hujuc', email: 'hugocastro@ua.pt', role: 'DevOps' },
                 ].sort((a, b) => a.name.localeCompare(b.name)).map((member, index) => (
                     <div key={index} style={{
                         border: '1px solid #ddd',
@@ -77,7 +77,8 @@ const OurTeam = () => {
                             />
                         </div>
                         <h3 style={{ marginTop: '2rem', marginBottom: '0.5rem', color: 'black' }}>{member.name}</h3>
-                        <p style={{ marginBottom: '1rem', color: 'black' }}>{member.email}</p>
+                        <p style={{ marginBottom: '0rem', color: 'black' }}>{member.email}</p>
+                        <p style={{ marginBottom: '1rem', color: 'black' }}>{member.role}</p>
                         <a
                             href={member.github}
                             target="_blank"

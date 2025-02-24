@@ -11,6 +11,11 @@
           "mainDocId": "milestones/MS1 - Inception Phase/projectDescription",
           "docs": [
             {
+              "id": "milestones/MS1 - Inception Phase/deliverables",
+              "path": "/docs/milestones/MS1 - Inception Phase/Deriverables",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "milestones/MS1 - Inception Phase/projectDescription",
               "path": "/docs/milestones/MS1 - Inception Phase/ProjectDescription",
               "sidebar": "tutorialSidebar"

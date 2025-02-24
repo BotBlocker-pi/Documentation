@@ -59,19 +59,25 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ef9'),
+    component: ComponentCreator('/docs', 'b7b'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '781'),
+        component: ComponentCreator('/docs', '949'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '29f'),
+            component: ComponentCreator('/docs', '72c'),
             routes: [
               {
                 path: '/docs/category/milestones',
                 component: ComponentCreator('/docs/category/milestones', '647'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/milestones/MS1 - Inception Phase/Deriverables',
+                component: ComponentCreator('/docs/milestones/MS1 - Inception Phase/Deriverables', 'b0e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

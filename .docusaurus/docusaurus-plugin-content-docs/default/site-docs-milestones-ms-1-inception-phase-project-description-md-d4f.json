@@ -1,7 +1,7 @@
 {
   "id": "milestones/MS1 - Inception Phase/projectDescription",
   "title": "Project Description",
-  "description": "a",
+  "description": "Brief Overview of the Project",
   "source": "@site/docs/milestones/MS1 - Inception Phase/projectDescription.md",
   "sourceDirName": "milestones/MS1 - Inception Phase",
   "slug": "/milestones/MS1 - Inception Phase/ProjectDescription",
@@ -11,9 +11,11 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/milestones/MS1 - Inception Phase/projectDescription.md",
   "tags": [],
   "version": "current",
+  "sidebarPosition": 1,
   "frontMatter": {
     "slug": "ProjectDescription",
-    "title": "Project Description"
+    "title": "Project Description",
+    "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -21,7 +23,7 @@
     "permalink": "/docs/category/milestones"
   },
   "next": {
-    "title": "Project Description",
-    "permalink": "/docs/milestones/MS2 - Elaboration Phase/ProjectDescription"
+    "title": "Deriverables",
+    "permalink": "/docs/milestones/MS1 - Inception Phase/Deriverables"
   }
 }

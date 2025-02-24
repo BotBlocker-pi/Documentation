@@ -84,22 +84,26 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-sprint-1278-2e3"
   },
-  "/docs-ef9": {
+  "/docs-b7b": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-781": {
+  "/docs-949": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-29f": {
+  "/docs-72c": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/milestones-647": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-milestonesaed-ed4"
+  },
+  "/docs/milestones/MS1 - Inception Phase/Deriverables-b0e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-milestones-ms-1-inception-phase-deriverables-8-aa-03c"
   },
   "/docs/milestones/MS1 - Inception Phase/ProjectDescription-bef": {
     "__comp": "__comp---theme-doc-item-178-a40",
