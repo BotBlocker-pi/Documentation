@@ -1,19 +1,56 @@
 {
-  "permalink": "/blog/sprint1",
+  "permalink": "/Documentation/blog/sprint1",
   "source": "@site/blog/Sprint01/sprint01.md",
   "title": "Sprint 1",
-  "description": "---",
-  "date": "2025-02-15T00:47:11.000Z",
+  "description": "Transferir o ficheiro: 1ª minuta",
+  "date": "2025-02-12T00:00:00.000Z",
   "tags": [],
-  "readingTime": 0.015,
+  "readingTime": 0.06,
   "hasTruncateMarker": false,
   "authors": [
     {
-      "name": "Hugo",
-      "title": "Developer",
+      "name": "Hugo Castro",
+      "title": "DevOps",
       "url": "https://github.com/hujuc",
-      "imageURL": "https://avatars.githubusercontent.com/u/107763649?v=4",
+      "email": "hugocastro@ua.pt",
+      "imageURL": "/Documentation/img/Team/HugoCastro.jpg",
       "key": "hugo",
+      "page": null
+    },
+    {
+      "name": "Ana Rita Silva",
+      "title": "Frontend Manager",
+      "url": "https://github.com/Rita-Silva04",
+      "email": "aritafs@ua.pt",
+      "imageURL": "/Documentation/img/Team/AnaRitaSilva.jpg",
+      "key": "rita",
+      "page": null
+    },
+    {
+      "name": "Ângela Ribeiro",
+      "title": "Project Manager",
+      "url": "https://github.com/angelammaribeiro",
+      "email": "angelammaribeiro@ua.pt",
+      "imageURL": "/Documentation/img/Team/AngelaRibeiro.jpg",
+      "key": "angela",
+      "page": null
+    },
+    {
+      "name": "João Carlos Leite",
+      "title": "Architect",
+      "url": "https://github.com/JotaCLS",
+      "email": "joao.carlos.santos@ua.pt",
+      "imageURL": "/Documentation/img/Team/JoaoCarlos.jpg",
+      "key": "joao_carlos",
+      "page": null
+    },
+    {
+      "name": "João Viegas",
+      "title": "Backend Manager",
+      "url": "https://github.com/joaoviegas11",
+      "email": "joaoviegas11@ua.pt",
+      "imageURL": "/Documentation/img/Team/JoaoViegas.jpg",
+      "key": "joao_viegas",
       "page": null
     }
   ],
@@ -21,8 +58,17 @@
     "slug": "sprint1",
     "title": "Sprint 1",
     "authors": [
-      "hugo"
-    ]
+      "hugo",
+      "rita",
+      "angela",
+      "joao_carlos",
+      "joao_viegas"
+    ],
+    "date": "2025-02-12T00:00:00.000Z"
   },
-  "unlisted": false
+  "unlisted": false,
+  "prevItem": {
+    "title": "Sprint 2",
+    "permalink": "/Documentation/blog/sprint2"
+  }
 }

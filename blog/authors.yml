@@ -1,5 +1,34 @@
 hugo:
-  name: Hugo
-  title: Developer
+  name: Hugo Castro
+  title: DevOps
   url: https://github.com/hujuc
-  image_url: https://avatars.githubusercontent.com/u/107763649?v=4
+  image_url: /img/Team/HugoCastro.jpg
+  email: hugocastro@ua.pt
+
+rita:
+  name: Ana Rita Silva
+  title: Frontend Manager
+  url: https://github.com/Rita-Silva04
+  image_url: /img/Team/AnaRitaSilva.jpg
+  email: aritafs@ua.pt
+
+angela:
+  name: Ângela Ribeiro
+  title: Project Manager
+  url: https://github.com/angelammaribeiro
+  image_url: /img/Team/AngelaRibeiro.jpg
+  email: angelammaribeiro@ua.pt
+
+joao_carlos:
+  name: João Carlos Leite
+  title: Architect
+  url: https://github.com/JotaCLS
+  image_url: /img/Team/JoaoCarlos.jpg
+  email: joao.carlos.santos@ua.pt
+
+joao_viegas:
+  name: João Viegas
+  title: Backend Manager
+  url: https://github.com/joaoviegas11
+  image_url: /img/Team/JoaoViegas.jpg
+  email: joaoviegas11@ua.pt

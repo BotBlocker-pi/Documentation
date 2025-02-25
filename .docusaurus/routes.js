@@ -3,105 +3,125 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    path: '/Documentation/__docusaurus/debug',
+    component: ComponentCreator('/Documentation/__docusaurus/debug', 'd5e'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    path: '/Documentation/__docusaurus/debug/config',
+    component: ComponentCreator('/Documentation/__docusaurus/debug/config', '70b'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    path: '/Documentation/__docusaurus/debug/content',
+    component: ComponentCreator('/Documentation/__docusaurus/debug/content', '03c'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    path: '/Documentation/__docusaurus/debug/globalData',
+    component: ComponentCreator('/Documentation/__docusaurus/debug/globalData', '149'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    path: '/Documentation/__docusaurus/debug/metadata',
+    component: ComponentCreator('/Documentation/__docusaurus/debug/metadata', '9b4'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    path: '/Documentation/__docusaurus/debug/registry',
+    component: ComponentCreator('/Documentation/__docusaurus/debug/registry', 'd31'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    path: '/Documentation/__docusaurus/debug/routes',
+    component: ComponentCreator('/Documentation/__docusaurus/debug/routes', '128'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '3f0'),
+    path: '/Documentation/blog',
+    component: ComponentCreator('/Documentation/blog', 'f9d'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '182'),
+    path: '/Documentation/blog/archive',
+    component: ComponentCreator('/Documentation/blog/archive', 'b74'),
     exact: true
   },
   {
-    path: '/blog/authors',
-    component: ComponentCreator('/blog/authors', '0b7'),
+    path: '/Documentation/blog/authors',
+    component: ComponentCreator('/Documentation/blog/authors', 'e57'),
     exact: true
   },
   {
-    path: '/blog/sprint1',
-    component: ComponentCreator('/blog/sprint1', '418'),
+    path: '/Documentation/blog/sprint1',
+    component: ComponentCreator('/Documentation/blog/sprint1', '52e'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'b7b'),
+    path: '/Documentation/blog/sprint2',
+    component: ComponentCreator('/Documentation/blog/sprint2', '57f'),
+    exact: true
+  },
+  {
+    path: '/Documentation/blog/sprint3',
+    component: ComponentCreator('/Documentation/blog/sprint3', '370'),
+    exact: true
+  },
+  {
+    path: '/Documentation/blog/sprint4',
+    component: ComponentCreator('/Documentation/blog/sprint4', 'f5f'),
+    exact: true
+  },
+  {
+    path: '/Documentation/blog/sprint5',
+    component: ComponentCreator('/Documentation/blog/sprint5', '786'),
+    exact: true
+  },
+  {
+    path: '/Documentation/docs',
+    component: ComponentCreator('/Documentation/docs', '7b1'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '949'),
+        path: '/Documentation/docs',
+        component: ComponentCreator('/Documentation/docs', '38c'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', '72c'),
+            path: '/Documentation/docs',
+            component: ComponentCreator('/Documentation/docs', 'd75'),
             routes: [
               {
-                path: '/docs/category/milestones',
-                component: ComponentCreator('/docs/category/milestones', '647'),
+                path: '/Documentation/docs/category/milestones',
+                component: ComponentCreator('/Documentation/docs/category/milestones', 'e05'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/milestones/MS1 - Inception Phase/Deriverables',
-                component: ComponentCreator('/docs/milestones/MS1 - Inception Phase/Deriverables', 'b0e'),
+                path: '/Documentation/docs/milestones/MS1 - Inception Phase/Deliverables',
+                component: ComponentCreator('/Documentation/docs/milestones/MS1 - Inception Phase/Deliverables', 'f45'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/milestones/MS1 - Inception Phase/ProjectDescription',
-                component: ComponentCreator('/docs/milestones/MS1 - Inception Phase/ProjectDescription', 'bef'),
+                path: '/Documentation/docs/milestones/MS1 - Inception Phase/ProjectDescription',
+                component: ComponentCreator('/Documentation/docs/milestones/MS1 - Inception Phase/ProjectDescription', '1b6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/milestones/MS2 - Elaboration Phase/ProjectDescription',
-                component: ComponentCreator('/docs/milestones/MS2 - Elaboration Phase/ProjectDescription', '908'),
+                path: '/Documentation/docs/milestones/MS2 - Elaboration Phase/ProjectDescription',
+                component: ComponentCreator('/Documentation/docs/milestones/MS2 - Elaboration Phase/ProjectDescription', 'ed0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/milestones/MS3 - Construction/ProjectDescription',
-                component: ComponentCreator('/docs/milestones/MS3 - Construction/ProjectDescription', 'cbe'),
+                path: '/Documentation/docs/milestones/MS3 - Construction/ProjectDescription',
+                component: ComponentCreator('/Documentation/docs/milestones/MS3 - Construction/ProjectDescription', '148'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/milestones/MS4 - Transition/ProjectDescription',
-                component: ComponentCreator('/docs/milestones/MS4 - Transition/ProjectDescription', 'ebb'),
+                path: '/Documentation/docs/milestones/MS4 - Transition/ProjectDescription',
+                component: ComponentCreator('/Documentation/docs/milestones/MS4 - Transition/ProjectDescription', 'dc5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -112,8 +132,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '2e1'),
+    path: '/Documentation/',
+    component: ComponentCreator('/Documentation/', 'd2f'),
     exact: true
   },
   {

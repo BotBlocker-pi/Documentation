@@ -1,43 +1,43 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/Documentation/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/Documentation/docs",
           "mainDocId": "milestones/MS1 - Inception Phase/projectDescription",
           "docs": [
             {
               "id": "milestones/MS1 - Inception Phase/deliverables",
-              "path": "/docs/milestones/MS1 - Inception Phase/Deriverables",
+              "path": "/Documentation/docs/milestones/MS1 - Inception Phase/Deliverables",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "milestones/MS1 - Inception Phase/projectDescription",
-              "path": "/docs/milestones/MS1 - Inception Phase/ProjectDescription",
+              "path": "/Documentation/docs/milestones/MS1 - Inception Phase/ProjectDescription",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "milestones/MS2 - Elaboration Phase/projectDescription",
-              "path": "/docs/milestones/MS2 - Elaboration Phase/ProjectDescription",
+              "path": "/Documentation/docs/milestones/MS2 - Elaboration Phase/ProjectDescription",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "milestones/MS3 - Construction/projectDescription",
-              "path": "/docs/milestones/MS3 - Construction/ProjectDescription",
+              "path": "/Documentation/docs/milestones/MS3 - Construction/ProjectDescription",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "milestones/MS4 - Transition/projectDescription",
-              "path": "/docs/milestones/MS4 - Transition/ProjectDescription",
+              "path": "/Documentation/docs/milestones/MS4 - Transition/ProjectDescription",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/milestones",
-              "path": "/docs/category/milestones",
+              "path": "/Documentation/docs/category/milestones",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -45,7 +45,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/category/milestones",
+                "path": "/Documentation/docs/category/milestones",
                 "label": "Milestones"
               }
             }

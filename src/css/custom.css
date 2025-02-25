@@ -44,3 +44,8 @@
   fill: var(--ifm-background-color);
   /* Usa a cor de fundo do tema escuro */
 }
+
+.avatar__photo {
+  object-fit: cover; /* Evita distorção e recorta a imagem */
+  border-radius: 50%; /* Moldura redonda */
+}
