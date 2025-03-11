@@ -25,6 +25,6 @@ By combining **collective intelligence** with **advanced bot detection**, BotBlo
 
 ## Project Architecture
 
-![Project Architecture](../../../static/img/Architecture.png)
+![Project Architecture](Architecture.png)
 
 The system architecture consists of three main interfaces: a browser extension, a website, and an admin interface. The extension serves as an account blocker, allowing users to set filters, block, and evaluate accounts. The website provides a platform to search profiles, view evaluations, and track user activity. The admin interface is used for managing, controlling, and monitoring evaluations. These interfaces are connected to a backend responsible for credibility calculations, custom search filters, and account management. The database stores information on accounts, evaluations, and user preferences, with authentication available via Google.

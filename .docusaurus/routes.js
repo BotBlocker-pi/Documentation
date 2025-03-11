@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/Documentation/docs',
-    component: ComponentCreator('/Documentation/docs', '7b1'),
+    component: ComponentCreator('/Documentation/docs', 'f0a'),
     routes: [
       {
         path: '/Documentation/docs',
-        component: ComponentCreator('/Documentation/docs', '38c'),
+        component: ComponentCreator('/Documentation/docs', '72f'),
         routes: [
           {
             path: '/Documentation/docs',
-            component: ComponentCreator('/Documentation/docs', 'd75'),
+            component: ComponentCreator('/Documentation/docs', 'd37'),
             routes: [
               {
                 path: '/Documentation/docs/category/milestones',
@@ -108,8 +108,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Documentation/docs/milestones/MS2 - Elaboration Phase/ProjectDescription',
-                component: ComponentCreator('/Documentation/docs/milestones/MS2 - Elaboration Phase/ProjectDescription', 'ed0'),
+                path: '/Documentation/docs/milestones/MS2 - Elaboration Phase/Deliverables',
+                component: ComponentCreator('/Documentation/docs/milestones/MS2 - Elaboration Phase/Deliverables', 'c44'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/Documentation/docs/milestones/MS2 - Elaboration Phase/Requirements, Architecture, and Design',
+                component: ComponentCreator('/Documentation/docs/milestones/MS2 - Elaboration Phase/Requirements, Architecture, and Design', 'f0a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

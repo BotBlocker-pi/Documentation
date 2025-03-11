@@ -2,10 +2,10 @@
   "permalink": "/Documentation/blog/sprint1",
   "source": "@site/blog/Sprint01/sprint01.md",
   "title": "Sprint 1",
-  "description": "Transferir o ficheiro: 1ª minuta",
-  "date": "2025-02-12T00:00:00.000Z",
+  "description": "Week 09/02 - 15/02",
+  "date": "2025-02-09T00:00:00.000Z",
   "tags": [],
-  "readingTime": 0.06,
+  "readingTime": 0.155,
   "hasTruncateMarker": false,
   "authors": [
     {
@@ -64,7 +64,7 @@
       "joao_carlos",
       "joao_viegas"
     ],
-    "date": "2025-02-12T00:00:00.000Z"
+    "date": "2025-02-09T00:00:00.000Z"
   },
   "unlisted": false,
   "prevItem": {

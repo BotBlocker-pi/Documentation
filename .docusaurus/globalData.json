@@ -21,8 +21,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "milestones/MS2 - Elaboration Phase/projectDescription",
-              "path": "/Documentation/docs/milestones/MS2 - Elaboration Phase/ProjectDescription",
+              "id": "milestones/MS2 - Elaboration Phase/deliverables",
+              "path": "/Documentation/docs/milestones/MS2 - Elaboration Phase/Deliverables",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "milestones/MS2 - Elaboration Phase/requirementsArchitectureDesign",
+              "path": "/Documentation/docs/milestones/MS2 - Elaboration Phase/Requirements, Architecture, and Design",
               "sidebar": "tutorialSidebar"
             },
             {

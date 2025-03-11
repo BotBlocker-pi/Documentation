@@ -140,17 +140,17 @@
     "sidebar": "sidebar---documentation-blog-814-f34",
     "content": "content---documentation-blog-sprint-5-bc-2-5f8"
   },
-  "/Documentation/docs-7b1": {
+  "/Documentation/docs-f0a": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---documentation-docsaba-2d5"
     }
   },
-  "/Documentation/docs-38c": {
+  "/Documentation/docs-72f": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---documentation-docs-915-d1b"
   },
-  "/Documentation/docs-d75": {
+  "/Documentation/docs-d37": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/Documentation/docs/category/milestones-e05": {
@@ -165,9 +165,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentation-docs-milestones-ms-1-inception-phase-project-descriptiond-4-f-276"
   },
-  "/Documentation/docs/milestones/MS2 - Elaboration Phase/ProjectDescription-ed0": {
+  "/Documentation/docs/milestones/MS2 - Elaboration Phase/Deliverables-c44": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---documentation-docs-milestones-ms-2-elaboration-phase-project-descriptione-52-d87"
+    "content": "content---documentation-docs-milestones-ms-2-elaboration-phase-deliverablesb-72-754"
+  },
+  "/Documentation/docs/milestones/MS2 - Elaboration Phase/Requirements, Architecture, and Design-f0a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentation-docs-milestones-ms-2-elaboration-phase-requirements-architecture-and-design-2-d-1-6fb"
   },
   "/Documentation/docs/milestones/MS3 - Construction/ProjectDescription-148": {
     "__comp": "__comp---theme-doc-item-178-a40",
