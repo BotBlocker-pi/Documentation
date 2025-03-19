@@ -33,7 +33,7 @@ Bot Blocker combines AI, community participation, and human supervision to detec
 The BotBlocker system follows a modular architecture, integrating a browser extension and a web application for bot detection and filtering.
 Core Components:
 
-- **Client-Side:** A browser extension for real-time profile analysis and a web app for managing evaluations and user settings.
+- **Client-Side:** A browser extension for real-time profile analysis and a web app for managing evaluations and accounts.
 - **Backend API:** Handles verification logic, push notifications, filters, account management, and bot evaluations.
 - **Reverse Proxy:** Ensures security and load balancing between client applications and backend services.
 - **Databases:** A data storage system for user preferences and bot evaluations, plus a time-series database for tracking bot activity.

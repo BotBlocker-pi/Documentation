@@ -2,6 +2,12 @@
   "title": "Sprints",
   "items": [
     {
+      "title": "Sprint 6",
+      "permalink": "/Documentation/blog/sprint6",
+      "unlisted": false,
+      "date": "2025-03-18T00:00:00.000Z"
+    },
+    {
       "title": "Sprint 5",
       "permalink": "/Documentation/blog/sprint5",
       "unlisted": false,

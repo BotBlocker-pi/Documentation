@@ -42,13 +42,16 @@
       "plugin": "plugin---documentation-docusaurus-debugb-38-6e0"
     }
   },
-  "/Documentation/blog-f9d": {
+  "/Documentation/blog-ee0": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---documentation-blog-369-a56"
     },
     "sidebar": "sidebar---documentation-blog-814-f34",
     "items": [
+      {
+        "content": "content---documentation-blogf-4-e-3bd"
+      },
       {
         "content": "content---documentation-blog-6-fa-d87"
       },
@@ -139,6 +142,17 @@
     },
     "sidebar": "sidebar---documentation-blog-814-f34",
     "content": "content---documentation-blog-sprint-5-bc-2-5f8"
+  },
+  "/Documentation/blog/sprint6-be6": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---documentation-blog-authorsace-df8"
+      },
+      "plugin": "plugin---documentation-blog-369-a56"
+    },
+    "sidebar": "sidebar---documentation-blog-814-f34",
+    "content": "content---documentation-blog-sprint-5177-cb9"
   },
   "/Documentation/docs-f0a": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",

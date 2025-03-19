@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/Documentation/blog',
-    component: ComponentCreator('/Documentation/blog', 'f9d'),
+    component: ComponentCreator('/Documentation/blog', 'ee0'),
     exact: true
   },
   {
@@ -75,6 +75,11 @@ export default [
   {
     path: '/Documentation/blog/sprint5',
     component: ComponentCreator('/Documentation/blog/sprint5', '786'),
+    exact: true
+  },
+  {
+    path: '/Documentation/blog/sprint6',
+    component: ComponentCreator('/Documentation/blog/sprint6', 'be6'),
     exact: true
   },
   {

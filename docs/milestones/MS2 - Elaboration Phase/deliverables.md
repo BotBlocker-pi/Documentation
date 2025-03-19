@@ -10,6 +10,6 @@ sidebar_position: 2
 - [**Use Cases**](/pdfs/MS2/useCases.pdf)
 - [**Requirements Gathering, Functional/Non-functional Requirements, Personas & Scenarios, User Stories**](/pdfs/MS2/requirementsGathering.pdf)
 - [**State of the Art (updated)**](/pdfs/MS2/SOA.pdf)
-- [**System Architecture, Deployment Diagram, Domain Model**]
+- [**System Architecture, Deployment Diagram, Domain Model**](/pdfs/MS2/architecture.pdf)
 - [**User Interaction - Mockups (updated)**](/pdfs/MS2/Mockups.pdf)
 - [**Project Calendar**](/pdfs/MS1/Calendar.pdf)

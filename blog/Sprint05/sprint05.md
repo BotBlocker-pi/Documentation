@@ -9,3 +9,5 @@ date: 2025-03-11
 
 import PdfViewer from '@site/src/components/PdfViewer';
 
+<PdfViewer src="/Documentation/pdfs/sprints/minuta07.pdf" />
+Transferir o ficheiro: [**7ª minuta**](/pdfs/sprints/minuta07.pdf)
