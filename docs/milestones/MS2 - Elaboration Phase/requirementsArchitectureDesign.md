@@ -30,8 +30,34 @@ Bot Blocker combines AI, community participation, and human supervision to detec
 ![FunctionalRequirements.png](FunctionalRequirements.png)
 
 # System Architecture
+The BotBlocker system follows a modular architecture, integrating a browser extension and a web application for bot detection and filtering.
+Core Components:
+
+- **Client-Side:** A browser extension for real-time profile analysis and a web app for managing evaluations and user settings.
+- **Backend API:** Handles verification logic, push notifications, filters, account management, and bot evaluations.
+- **Reverse Proxy:** Ensures security and load balancing between client applications and backend services.
+- **Databases:** A data storage system for user preferences and bot evaluations, plus a time-series database for tracking bot activity.
+- **Authentication Provider:** Manages secure user authentication and role-based access.
+
+This architecture ensures a scalable, secure, and efficient bot detection system.
+
+![architecture.png](architecture.png)
 
 # Use Cases
+- **Profile Evaluation**
+
+Authenticated users can classify profiles as "Bot" or "Not Bot," contributing to a community-based scoring system. Verifiers and administrators can apply verification badges to highlight trusted or suspicious profiles.
+- **Managing Suspicious Profiles**
+
+Users can manually block unwanted profiles, ensuring they do not appear in their feed. Additionally, they can customize filters within the extension to automatically hide profiles based on suspicion scores and verification status.
+- **Monitoring Suspicious Activity**
+
+Administrators and verifiers receive alerts about unusual patterns, such as spam voting. If abuse is confirmed, they can apply temporary or permanent suspensions to prevent system manipulation.
+- **Quick Profile Verification via Extension**
+
+The extension allows users to quickly analyze suspicious profiles directly on social media, displaying the profile’s score and verification status.
+
+For a detailed description of all use cases, please refer to the [**Use Cases**](/pdfs/MS2/useCases.pdf) document.
 
 # Mockups
 

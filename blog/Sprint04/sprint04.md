@@ -2,9 +2,9 @@
 slug: sprint4
 title: Sprint 4
 authors: [hugo, rita, angela, joao_carlos, joao_viegas]
-date: 2025-03-02
+date: 2025-03-04
 ---
-#### Week `02/03` - `08/03`
+#### Week `04/03` - `10/03`
 ## 6ª minuta
 
 import PdfViewer from '@site/src/components/PdfViewer';

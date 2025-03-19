@@ -2,10 +2,10 @@
   "permalink": "/Documentation/blog/sprint1",
   "source": "@site/blog/Sprint01/sprint01.md",
   "title": "Sprint 1",
-  "description": "Week 09/02 - 15/02",
-  "date": "2025-02-09T00:00:00.000Z",
+  "description": "Week 11/02 - 17/02",
+  "date": "2025-02-11T00:00:00.000Z",
   "tags": [],
-  "readingTime": 0.155,
+  "readingTime": 0.21,
   "hasTruncateMarker": false,
   "authors": [
     {
@@ -64,7 +64,7 @@
       "joao_carlos",
       "joao_viegas"
     ],
-    "date": "2025-02-09T00:00:00.000Z"
+    "date": "2025-02-11T00:00:00.000Z"
   },
   "unlisted": false,
   "prevItem": {
