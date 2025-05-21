@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/Documentation/blog',
-    component: ComponentCreator('/Documentation/blog', 'ee0'),
+    component: ComponentCreator('/Documentation/blog', '1a4'),
     exact: true
   },
   {
@@ -53,46 +53,56 @@ export default [
     exact: true
   },
   {
-    path: '/Documentation/blog/sprint1',
-    component: ComponentCreator('/Documentation/blog/sprint1', '52e'),
+    path: '/Documentation/blog/week1',
+    component: ComponentCreator('/Documentation/blog/week1', 'efd'),
     exact: true
   },
   {
-    path: '/Documentation/blog/sprint2',
-    component: ComponentCreator('/Documentation/blog/sprint2', '57f'),
+    path: '/Documentation/blog/week2',
+    component: ComponentCreator('/Documentation/blog/week2', '29e'),
     exact: true
   },
   {
-    path: '/Documentation/blog/sprint3',
-    component: ComponentCreator('/Documentation/blog/sprint3', '370'),
+    path: '/Documentation/blog/week3',
+    component: ComponentCreator('/Documentation/blog/week3', '18c'),
     exact: true
   },
   {
-    path: '/Documentation/blog/sprint4',
-    component: ComponentCreator('/Documentation/blog/sprint4', 'f5f'),
+    path: '/Documentation/blog/week4',
+    component: ComponentCreator('/Documentation/blog/week4', 'eec'),
     exact: true
   },
   {
-    path: '/Documentation/blog/sprint5',
-    component: ComponentCreator('/Documentation/blog/sprint5', '786'),
+    path: '/Documentation/blog/week5',
+    component: ComponentCreator('/Documentation/blog/week5', 'e3f'),
     exact: true
   },
   {
-    path: '/Documentation/blog/sprint6',
-    component: ComponentCreator('/Documentation/blog/sprint6', 'be6'),
+    path: '/Documentation/blog/week6',
+    component: ComponentCreator('/Documentation/blog/week6', '645'),
+    exact: true
+  },
+  {
+    path: '/Documentation/blog/week7',
+    component: ComponentCreator('/Documentation/blog/week7', 'dbf'),
+    exact: true
+  },
+  {
+    path: '/Documentation/blog/week8',
+    component: ComponentCreator('/Documentation/blog/week8', 'fc9'),
     exact: true
   },
   {
     path: '/Documentation/docs',
-    component: ComponentCreator('/Documentation/docs', 'f0a'),
+    component: ComponentCreator('/Documentation/docs', '958'),
     routes: [
       {
         path: '/Documentation/docs',
-        component: ComponentCreator('/Documentation/docs', '72f'),
+        component: ComponentCreator('/Documentation/docs', '23a'),
         routes: [
           {
             path: '/Documentation/docs',
-            component: ComponentCreator('/Documentation/docs', 'd37'),
+            component: ComponentCreator('/Documentation/docs', '113'),
             routes: [
               {
                 path: '/Documentation/docs/category/milestones',
@@ -125,14 +135,26 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Documentation/docs/milestones/MS3 - Construction/ProjectDescription',
-                component: ComponentCreator('/Documentation/docs/milestones/MS3 - Construction/ProjectDescription', '148'),
+                path: '/Documentation/docs/milestones/MS3 - Construction/Deliverables',
+                component: ComponentCreator('/Documentation/docs/milestones/MS3 - Construction/Deliverables', '6f1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Documentation/docs/milestones/MS4 - Transition/ProjectDescription',
-                component: ComponentCreator('/Documentation/docs/milestones/MS4 - Transition/ProjectDescription', 'dc5'),
+                path: '/Documentation/docs/milestones/MS3 - Construction/ProjectDevelopment',
+                component: ComponentCreator('/Documentation/docs/milestones/MS3 - Construction/ProjectDevelopment', '1ca'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/Documentation/docs/milestones/MS4 - Transition/Deliverables',
+                component: ComponentCreator('/Documentation/docs/milestones/MS4 - Transition/Deliverables', 'b60'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/Documentation/docs/milestones/MS4 - Transition/ProjectDevelopment',
+                component: ComponentCreator('/Documentation/docs/milestones/MS4 - Transition/ProjectDevelopment', '996'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

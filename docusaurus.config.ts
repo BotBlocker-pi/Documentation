@@ -46,7 +46,7 @@ const config: Config = {
         blog: {
           showReadingTime: true,
           blogSidebarCount: "ALL",
-          blogSidebarTitle: "Sprints",
+          blogSidebarTitle: "Weeks",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         },
@@ -73,7 +73,7 @@ const config: Config = {
           position: 'left',
           label: 'Documentation',
         },
-        {to: '/blog', label: 'Sprints', position: 'left'},
+        {to: '/blog', label: 'Minutes', position: 'left'},
         {
           href: 'https://github.com/BotBlocker-pi',
           label: 'GitHub',

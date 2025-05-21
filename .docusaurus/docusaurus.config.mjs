@@ -33,7 +33,7 @@ export default {
         "blog": {
           "showReadingTime": true,
           "blogSidebarCount": "ALL",
-          "blogSidebarTitle": "Sprints"
+          "blogSidebarTitle": "Weeks"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
@@ -58,7 +58,7 @@ export default {
         },
         {
           "to": "/blog",
-          "label": "Sprints",
+          "label": "Minutes",
           "position": "left"
         },
         {

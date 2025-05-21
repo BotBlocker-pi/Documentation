@@ -1,39 +1,51 @@
 {
-  "title": "Sprints",
+  "title": "Weeks",
   "items": [
     {
-      "title": "Sprint 6",
-      "permalink": "/Documentation/blog/sprint6",
+      "title": "Week 8",
+      "permalink": "/Documentation/blog/week8",
+      "unlisted": false,
+      "date": "2025-04-01T00:00:00.000Z"
+    },
+    {
+      "title": "Week 7",
+      "permalink": "/Documentation/blog/week7",
+      "unlisted": false,
+      "date": "2025-03-25T00:00:00.000Z"
+    },
+    {
+      "title": "Week 6",
+      "permalink": "/Documentation/blog/week6",
       "unlisted": false,
       "date": "2025-03-18T00:00:00.000Z"
     },
     {
-      "title": "Sprint 5",
-      "permalink": "/Documentation/blog/sprint5",
+      "title": "Week 5",
+      "permalink": "/Documentation/blog/week5",
       "unlisted": false,
       "date": "2025-03-11T00:00:00.000Z"
     },
     {
-      "title": "Sprint 4",
-      "permalink": "/Documentation/blog/sprint4",
+      "title": "Week 4",
+      "permalink": "/Documentation/blog/week4",
       "unlisted": false,
       "date": "2025-03-04T00:00:00.000Z"
     },
     {
-      "title": "Sprint 3",
-      "permalink": "/Documentation/blog/sprint3",
+      "title": "Week 3",
+      "permalink": "/Documentation/blog/week3",
       "unlisted": false,
       "date": "2025-02-25T00:00:00.000Z"
     },
     {
-      "title": "Sprint 2",
-      "permalink": "/Documentation/blog/sprint2",
+      "title": "Week 2",
+      "permalink": "/Documentation/blog/week2",
       "unlisted": false,
       "date": "2025-02-18T00:00:00.000Z"
     },
     {
-      "title": "Sprint 1",
-      "permalink": "/Documentation/blog/sprint1",
+      "title": "Week 1",
+      "permalink": "/Documentation/blog/week1",
       "unlisted": false,
       "date": "2025-02-11T00:00:00.000Z"
     }

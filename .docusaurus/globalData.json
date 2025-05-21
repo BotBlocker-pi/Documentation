@@ -31,13 +31,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "milestones/MS3 - Construction/projectDescription",
-              "path": "/Documentation/docs/milestones/MS3 - Construction/ProjectDescription",
+              "id": "milestones/MS3 - Construction/deliverables",
+              "path": "/Documentation/docs/milestones/MS3 - Construction/Deliverables",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "milestones/MS4 - Transition/projectDescription",
-              "path": "/Documentation/docs/milestones/MS4 - Transition/ProjectDescription",
+              "id": "milestones/MS3 - Construction/projectDevelopment",
+              "path": "/Documentation/docs/milestones/MS3 - Construction/ProjectDevelopment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "milestones/MS4 - Transition/deliverables",
+              "path": "/Documentation/docs/milestones/MS4 - Transition/Deliverables",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "milestones/MS4 - Transition/projectDevelopment",
+              "path": "/Documentation/docs/milestones/MS4 - Transition/ProjectDevelopment",
               "sidebar": "tutorialSidebar"
             },
             {
