@@ -10,7 +10,7 @@ import video3 from '@site/static/videos/video3.mp4';
 import video4 from '@site/static/videos/video4.mp4';
 import video5 from '@site/static/videos/video5.mp4';
 
-During this Milestone, we will focus on the development of the BotBlocker system.
+During this Milestone, we focused on the development of the BotBlocker system.
 
 Here's a brief overview of the implemented features and the development process:
 1. **Account Creation**: Users can create an account on the BotBlocker web application. This feature is essential for allowing users to vote on profiles.
