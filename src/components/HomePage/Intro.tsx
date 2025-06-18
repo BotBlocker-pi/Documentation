@@ -87,6 +87,25 @@ const WaveSVG = styled.svg`
     z-index: 1;
 `;
 
+// Estilo do container do vídeo
+const VideoContainer = styled.div`
+    max-width: 40%;
+    z-index: 2;
+    margin-left: 2rem;
+
+    @media (max-width: 768px) {
+        max-width: 100%;
+        margin-left: 0;
+    }
+
+    video {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+`;
+
 const Intro = () => {
     const [isDarkMode, setIsDarkMode] = useState(false);
 
@@ -137,14 +156,14 @@ const Intro = () => {
                 </Paragraph>
             </TextContainer>
 
-            {/* Imagem em telas grandes */}
-            <ImageContainer style={{ display: 'block' }}>
-                <img
-                    src={astronautImage}
-                    alt="Astronaut"
-                    style={{ width: '100%', objectFit: 'contain' }}
-                />
-            </ImageContainer>
+            {/* Vídeo promocional */}
+            <VideoContainer>
+                <video controls autoPlay loop muted>
+                    <source src={require('@site/static/videos/videoPromo.mp4').default} type="video/mp4" />
+                    Your browser does not support the video tag.
+                </video>
+            </VideoContainer>
+
 
             {/* Wave SVG at the bottom */}
             <WaveSVG viewBox="0 0 500 150" preserveAspectRatio="none">
