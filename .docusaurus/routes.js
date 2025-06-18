@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/Documentation/blog',
-    component: ComponentCreator('/Documentation/blog', '1a4'),
+    component: ComponentCreator('/Documentation/blog', '3f4'),
     exact: true
   },
   {
@@ -53,8 +53,48 @@ export default [
     exact: true
   },
   {
+    path: '/Documentation/blog/page/2',
+    component: ComponentCreator('/Documentation/blog/page/2', '3e6'),
+    exact: true
+  },
+  {
     path: '/Documentation/blog/week1',
     component: ComponentCreator('/Documentation/blog/week1', 'efd'),
+    exact: true
+  },
+  {
+    path: '/Documentation/blog/week10',
+    component: ComponentCreator('/Documentation/blog/week10', '0d7'),
+    exact: true
+  },
+  {
+    path: '/Documentation/blog/week11',
+    component: ComponentCreator('/Documentation/blog/week11', 'c30'),
+    exact: true
+  },
+  {
+    path: '/Documentation/blog/week13',
+    component: ComponentCreator('/Documentation/blog/week13', 'f4e'),
+    exact: true
+  },
+  {
+    path: '/Documentation/blog/week13',
+    component: ComponentCreator('/Documentation/blog/week13', '55d'),
+    exact: true
+  },
+  {
+    path: '/Documentation/blog/week14',
+    component: ComponentCreator('/Documentation/blog/week14', '9d8'),
+    exact: true
+  },
+  {
+    path: '/Documentation/blog/week15',
+    component: ComponentCreator('/Documentation/blog/week15', 'e29'),
+    exact: true
+  },
+  {
+    path: '/Documentation/blog/week16',
+    component: ComponentCreator('/Documentation/blog/week16', '5b2'),
     exact: true
   },
   {
@@ -90,6 +130,11 @@ export default [
   {
     path: '/Documentation/blog/week8',
     component: ComponentCreator('/Documentation/blog/week8', 'fc9'),
+    exact: true
+  },
+  {
+    path: '/Documentation/blog/week9',
+    component: ComponentCreator('/Documentation/blog/week9', '3d1'),
     exact: true
   },
   {

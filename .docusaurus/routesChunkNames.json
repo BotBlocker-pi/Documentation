@@ -42,7 +42,7 @@
       "plugin": "plugin---documentation-docusaurus-debugb-38-6e0"
     }
   },
-  "/Documentation/blog-1a4": {
+  "/Documentation/blog-3f4": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
       "plugin": "plugin---documentation-blog-369-a56"
@@ -50,28 +50,34 @@
     "sidebar": "sidebar---documentation-blog-814-f34",
     "items": [
       {
+        "content": "content---documentation-blog-622-f5e"
+      },
+      {
+        "content": "content---documentation-blog-9-fc-077"
+      },
+      {
+        "content": "content---documentation-blog-10-f-8b5"
+      },
+      {
+        "content": "content---documentation-blog-35-a-624"
+      },
+      {
+        "content": "content---documentation-blog-35-a-624"
+      },
+      {
+        "content": "content---documentation-blog-064-1ab"
+      },
+      {
+        "content": "content---documentation-blogc-7-b-9d1"
+      },
+      {
+        "content": "content---documentation-blog-083-597"
+      },
+      {
         "content": "content---documentation-blogd-96-41f"
       },
       {
         "content": "content---documentation-blog-308-4aa"
-      },
-      {
-        "content": "content---documentation-blog-23-a-707"
-      },
-      {
-        "content": "content---documentation-blogeaf-311"
-      },
-      {
-        "content": "content---documentation-bloge-30-9ae"
-      },
-      {
-        "content": "content---documentation-bloge-8-a-b0d"
-      },
-      {
-        "content": "content---documentation-blogcd-9-f4a"
-      },
-      {
-        "content": "content---documentation-blogde-3-17b"
       }
     ],
     "__props": "__props---documentation-blogad-2-084"
@@ -94,6 +100,34 @@
     "sidebar": "sidebar---documentation-blog-814-f34",
     "__props": "__props---documentation-blog-authors-506-7fc"
   },
+  "/Documentation/blog/page/2-3e6": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---documentation-blog-369-a56"
+    },
+    "sidebar": "sidebar---documentation-blog-814-f34",
+    "items": [
+      {
+        "content": "content---documentation-blog-23-a-707"
+      },
+      {
+        "content": "content---documentation-blogeaf-311"
+      },
+      {
+        "content": "content---documentation-bloge-30-9ae"
+      },
+      {
+        "content": "content---documentation-bloge-8-a-b0d"
+      },
+      {
+        "content": "content---documentation-blogcd-9-f4a"
+      },
+      {
+        "content": "content---documentation-blogde-3-17b"
+      }
+    ],
+    "__props": "__props---documentation-blog-page-28-bf-e2a"
+  },
   "/Documentation/blog/week1-efd": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
@@ -104,6 +138,83 @@
     },
     "sidebar": "sidebar---documentation-blog-814-f34",
     "content": "content---documentation-blog-week-158-f-a14"
+  },
+  "/Documentation/blog/week10-0d7": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---documentation-blog-authorsace-df8"
+      },
+      "plugin": "plugin---documentation-blog-369-a56"
+    },
+    "sidebar": "sidebar---documentation-blog-814-f34",
+    "content": "content---documentation-blog-week-91-fb-9fc"
+  },
+  "/Documentation/blog/week11-c30": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---documentation-blog-authorsace-df8"
+      },
+      "plugin": "plugin---documentation-blog-369-a56"
+    },
+    "sidebar": "sidebar---documentation-blog-814-f34",
+    "content": "content---documentation-blog-week-10687-ded"
+  },
+  "/Documentation/blog/week13-f4e": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---documentation-blog-authorsace-df8"
+      },
+      "plugin": "plugin---documentation-blog-369-a56"
+    },
+    "sidebar": "sidebar---documentation-blog-814-f34",
+    "content": "content---documentation-blog-week-12954-aa0"
+  },
+  "/Documentation/blog/week13-55d": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---documentation-blog-authorsace-df8"
+      },
+      "plugin": "plugin---documentation-blog-369-a56"
+    },
+    "sidebar": "sidebar---documentation-blog-814-f34",
+    "content": "content---documentation-blog-week-11-e-31-f51"
+  },
+  "/Documentation/blog/week14-9d8": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---documentation-blog-authorsace-df8"
+      },
+      "plugin": "plugin---documentation-blog-369-a56"
+    },
+    "sidebar": "sidebar---documentation-blog-814-f34",
+    "content": "content---documentation-blog-week-13-a-48-97b"
+  },
+  "/Documentation/blog/week15-e29": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---documentation-blog-authorsace-df8"
+      },
+      "plugin": "plugin---documentation-blog-369-a56"
+    },
+    "sidebar": "sidebar---documentation-blog-814-f34",
+    "content": "content---documentation-blog-week-14508-62b"
+  },
+  "/Documentation/blog/week16-5b2": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---documentation-blog-authorsace-df8"
+      },
+      "plugin": "plugin---documentation-blog-369-a56"
+    },
+    "sidebar": "sidebar---documentation-blog-814-f34",
+    "content": "content---documentation-blog-week-15642-d4b"
   },
   "/Documentation/blog/week2-29e": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
@@ -181,6 +292,17 @@
     },
     "sidebar": "sidebar---documentation-blog-814-f34",
     "content": "content---documentation-blog-week-85-c-6-b67"
+  },
+  "/Documentation/blog/week9-3d1": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---documentation-blog-authorsace-df8"
+      },
+      "plugin": "plugin---documentation-blog-369-a56"
+    },
+    "sidebar": "sidebar---documentation-blog-814-f34",
+    "content": "content---documentation-blog-week-8-dea-e38"
   },
   "/Documentation/docs-958": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
